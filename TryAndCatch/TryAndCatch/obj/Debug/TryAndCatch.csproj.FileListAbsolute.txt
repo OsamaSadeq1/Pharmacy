@@ -1,8 +1,0 @@
-E:\Pharmacy\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.exe.config
-E:\Pharmacy\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.exe
-E:\Pharmacy\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.pdb
-E:\Pharmacy\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.AssemblyReference.cache
-E:\Pharmacy\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.SuggestedBindingRedirects.cache
-E:\Pharmacy\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.CoreCompileInputs.cache
-E:\Pharmacy\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.exe
-E:\Pharmacy\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.pdb
